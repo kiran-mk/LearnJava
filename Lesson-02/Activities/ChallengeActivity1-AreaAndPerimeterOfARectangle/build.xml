@@ -6,8 +6,8 @@
 <!-- Commands such as Run, Debug, and Test only use this build script if -->
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
-<!-- in the project's Project Properties dialog box.-->
-<project name="ChallengeActivity1-AreaAndPerimeterOfARectangle" default="default" basedir=".">
+<!-- in the project's Project Properties dialog box.-->dfgh
+<project name="ChallengeActivity1-AreaAndPerimeterOfARectangle" default="default" basedir=".">dfh
     <description>Builds, tests, and runs the project ChallengeActivity1-AreaAndPerimeterOfARectangle.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
